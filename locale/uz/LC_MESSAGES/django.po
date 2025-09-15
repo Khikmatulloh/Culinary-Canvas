@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-15 19:21+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: .\core\settings.py:125
+msgid "Uzbek"
+msgstr ""
+
+#: .\core\settings.py:126
+msgid "English"
+msgstr ""
+
+#: .\core\settings.py:127
+msgid "Russian"
+msgstr ""
+
+#: .\recipes\models.py:8
+msgid "Name"
+msgstr ""
+
+#: .\recipes\models.py:9 .\recipes\models.py:35
+msgid "Slug"
+msgstr ""
+
+#: .\recipes\models.py:12 .\recipes\models.py:32
+msgid "Category"
+msgstr ""
+
+#: .\recipes\models.py:13
+msgid "Categories"
+msgstr ""
+
+#: .\recipes\models.py:24
+msgid "Author"
+msgstr ""
+
+#: .\recipes\models.py:34
+msgid "Title"
+msgstr ""
+
+#: .\recipes\models.py:36
+msgid "Description"
+msgstr ""
+
+#: .\recipes\models.py:37
+msgid "Ingredients"
+msgstr ""
+
+#: .\recipes\models.py:38
+msgid "Instructions"
+msgstr ""
+
+#: .\recipes\models.py:40
+msgid "Image"
+msgstr ""
+
+#: .\recipes\models.py:45
+msgid "Is Draft"
+msgstr ""
+
+#: .\recipes\models.py:46 .\recipes\models.py:72 .\recipes\models.py:97
+msgid "Created At"
+msgstr ""
+
+#: .\recipes\models.py:47
+msgid "Updated At"
+msgstr ""
+
+#: .\recipes\models.py:50 .\recipes\models.py:69 .\recipes\models.py:94
+msgid "Recipe"
+msgstr ""
+
+#: .\recipes\models.py:51
+msgid "Recipes"
+msgstr ""
+
+#: .\recipes\models.py:63 .\recipes\models.py:88 .\users\models.py:36
+msgid "User"
+msgstr ""
+
+#: .\recipes\models.py:71
+msgid "Text"
+msgstr ""
+
+#: .\recipes\models.py:75
+msgid "Comment"
+msgstr ""
+
+#: .\recipes\models.py:76
+msgid "Comments"
+msgstr ""
+
+#: .\recipes\models.py:96
+msgid "Score"
+msgstr ""
+
+#: .\recipes\models.py:100
+msgid "Rating"
+msgstr ""
+
+#: .\recipes\models.py:101
+msgid "Ratings"
+msgstr ""
+
+#: .\users\admin.py:14 .\users\admin.py:38
+msgid "Password"
+msgstr ""
+
+#: .\users\admin.py:15
+msgid "Password confirmation"
+msgstr ""
+
+#: .\users\admin.py:26
+msgid "Passwords don't match"
+msgstr ""
+
+#: .\users\admin.py:62
+msgid "Personal info"
+msgstr ""
+
+#: .\users\admin.py:63
+msgid "Permissions"
+msgstr ""
+
+#: .\users\admin.py:64
+msgid "Important dates"
+msgstr ""
+
+#: .\users\models.py:10
+msgid "Email Address"
+msgstr ""
+
+#: .\users\models.py:11
+msgid "First Name"
+msgstr ""
+
+#: .\users\models.py:12
+msgid "Last Name"
+msgstr ""
+
+#: .\users\models.py:14
+msgid "Profile Image"
+msgstr ""
+
+#: .\users\models.py:19
+msgid "Is Chef"
+msgstr ""
+
+#: .\users\models.py:21
+msgid "Telegram ID"
+msgstr ""
+
+#: .\users\models.py:26
+msgid "Staff Status"
+msgstr ""
+
+#: .\users\models.py:27
+msgid "Active"
+msgstr ""
+
+#: .\users\models.py:28
+msgid "Date Joined"
+msgstr ""
+
+#: .\users\models.py:37
+msgid "Users"
+msgstr ""

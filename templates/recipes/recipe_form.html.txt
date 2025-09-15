@@ -1,0 +1,7 @@
+<form method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <!-- form.as_p yoki qo'lda fieldlar -->
+  <input type="file" name="image" required>
+  <!-- boshqa fieldlar -->
+  <button type="submit">Saqlash</button>
+</form>
