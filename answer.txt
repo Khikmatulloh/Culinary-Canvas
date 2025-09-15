@@ -1,0 +1,14 @@
+1. Aiogramda Finite State Machine nima va u nima uchun kerak? FSM bo’lmaganda nima bo’lar edi?
+Javob: fsm bu ketma ketlik. misol uchun ism - familiya-telefoni sorimmiz.fsm bomasa barcha buyruq bitta handler keladi va chalkash bo'ladi.
+
+2. Aiogramda fayllar bilan ishlaganda ularni databasega qanday usulda saqlash kerak?
+Javob: Faylla bilan ishalagnda  faqat telegram idsini yoki file pathni saqlash kerak.O'zini saqlasa ko'tta joy oladi
+
+3. Aiogramda dependency injection bormi? U qanday implement qilinadi va nima uchun kerak?
+javob:Ha bor. Masalan db bilan ishlaganda, har safar asyncpg.connect() qilib ochib yopib otirgandan ko'ra. 
+Bitta joyda db ulanishni  ochib qo‘yamiz, keyin handler’larda dp["db"] yoki middleware orqali chaqirib ishlatasa bo'ladi
+
+ 4. Merchant va Subscribe API o’rtasida qanday farqlar bor?
+ Merchant bittali to'lovlar uchun ishlatilanadi.Subscribe api malum bir muddat yani haftalik oylik uchun ishlatilnadi.
+ 5. Biz merchant service sifatida nima uchun CallbackAPI tashkil qilishimiz kerak? Undan bizga nima foyda?
+ To'lov tushgani haqida darhol bilamiz.Xizmatni darhol faollashtirish yoki rad etish mumkin. 
